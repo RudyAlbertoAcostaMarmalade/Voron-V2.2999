@@ -4,10 +4,12 @@ A place to record and store the ongoing build and modifications to my Voron 2.4 
 
 -=Current Hardware=-
 - Voron 2.4r1 350 printed parts
-- Modified Stealthbuner Toolend (Orbiter 2/3D0 4K Nozzle Camera/ Barf LEDs)
+- Modified Orbiiter 2 Stealthburner Toolend
+- 3D0 4K Nozzle Camera
 - Dragon High Flow Hotend
 - Orbiter 2 Extruder
 - Euclid Magnetic Probe
+- Barf LEDs
 - BTT Octopus Board V1
 - Raspberry Pi 4 
 - Moons NEMA 17 MS17HD6P4201-04 StepperMotors
@@ -16,6 +18,11 @@ A place to record and store the ongoing build and modifications to my Voron 2.4 
 - Meanwell LRS-200-24 PSU
 - Meanwell RS-25-5 PSU
 - Omron G3NB-210B-1 Solid State Relay
+- Chamber Thermister
+- Frame Thermister
+- BTT 5" Screen
+- Enraged Rabbit Carrot Feeder MMU
+- Nozzle Cleaning Brush
 
 
 -=Purchase=-
